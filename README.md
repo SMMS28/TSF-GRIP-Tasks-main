@@ -46,7 +46,7 @@
 - You can choose any of the tool of your choice
 (Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
 - Here is the dataset : <a href="https://bit.ly/2TK5Xn5">Dataset.csv</a><br>
-> Solution: <a href="https://github.com/LiquidisedFish/TSF-GRIP-Tasks/blob/main/Task4-EDA(Terrorism)/ExploratoryDataAnalysisTerrorism.ipynb">Exploratory Data Analysis - Terrorism</a><br>
+> Solution: <a href="https://github.com/SMMS28/TSF-GRIP-Tasks-main/blob/main/Task4-EDA(Terrorism)/ExploratoryDataAnalysisTerrorism.ipynb">Exploratory Data Analysis - Terrorism</a><br>
 > YouTube: <a href="https://www.youtube.com/watch?v=rYMe2ZDuhBE">Exploratory Data Analysis - Terrorism</a>
 
 <br><br>
