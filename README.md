@@ -35,7 +35,7 @@
 (Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
 - Here is the dataset : <a href="https://github.com/LiquidisedFish/TSF-GRIP-Tasks/blob/main/Task3-EDA(Retail)/SampleSuperstore.csv">Dataset.csv</a><br>
 > Solution: <a href="https://github.com/SMMS28/TSF-GRIP-Tasks-main/blob/main/Task3-EDA(Retail)/ExploratoryDataAnalysisRetail.ipynb"> Exploratory Data Analysis-Retail</a><br>
-> YouTube: <a href="https://www.youtube.com/watch?v=hhbnPradfHU">Exploratory Data Analysis-Retail</a>
+> YouTube: <a href="https://youtu.be/8h3C4cNeR2s">Exploratory Data Analysis-Retail</a>
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/4. Exploratory Data Analysis (Terrorism) > Level  Intermediate-ffff00.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
