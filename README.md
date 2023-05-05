@@ -22,7 +22,7 @@
 - From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.<br>
 - Use R or Python or perform this task.<br>
 - Here is the dataset : <a href="https://github.com/LiquidisedFish/TSF-GRIP-Tasks/blob/main/Task2-PredictionUsingUnsupervisedML/Iris.csv">Dataset.csv</a><br>
-> Solution: <a href="https://github.com/LiquidisedFish/TSF-GRIP-Tasks/blob/main/Task2-PredictionUsingUnsupervisedML/PredictionUsingUnsupervisedML.ipynb"> Prediction using UnSupervised ML</a><br>
+> Solution: <a href=https://github.com/SMMS28/TSF-GRIP-Tasks-main/blob/main/Task2-PredictionUsingUnsupervisedML/PredictionUsingUnsupervisedML.ipynb> Prediction using UnSupervised ML</a><br>
 > YouTube: <a href="https://www.youtube.com/watch?v=p_5g5MUOXZg">Prediction using Unsupervised ML</a>
 
 <br><br>
