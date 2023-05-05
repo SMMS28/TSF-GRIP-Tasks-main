@@ -23,7 +23,7 @@
 - Use R or Python or perform this task.<br>
 - Here is the dataset : <a href="https://github.com/LiquidisedFish/TSF-GRIP-Tasks/blob/main/Task2-PredictionUsingUnsupervisedML/Iris.csv">Dataset.csv</a><br>
 > Solution: <a href=https://github.com/SMMS28/TSF-GRIP-Tasks-main/blob/main/Task2-PredictionUsingUnsupervisedML/PredictionUsingUnsupervisedML.ipynb> Prediction using UnSupervised ML</a><br>
-> YouTube: <a href="https://www.youtube.com/watch?v=p_5g5MUOXZg">Prediction using Unsupervised ML</a>
+> YouTube: <a href="https://youtu.be/CNZh1qvItGc">Prediction using Unsupervised ML</a>
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/3. Exploratory Data Analysis (Retail) > Level  Beginner-00b300.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
