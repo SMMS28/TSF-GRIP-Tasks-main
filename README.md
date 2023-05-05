@@ -13,7 +13,7 @@
 - You can use R, Python, SAS Enterprise Miner or any other tool. <br>
 - What will be predicted score if a student studies for 9.25 hrs/day? <br>
 - Here is the dataset : <a href="https://github.com/LiquidisedFish/TSF-GRIP-Tasks/blob/main/Task1-PredictionUsingSupervisedML/StudentScores.csv">Dataset.csv</a><br>
-> Solution: <a https://github.com/SMMS28/TSF-GRIP-Tasks-main/blob/main/Task1-PredictionUsingSupervisedML/PredictionUsingSupervisedML.ipynb> Prediction using Supervised ML</a><br>
+> Solution: <a"https://github.com/SMMS28/TSF-GRIP-Tasks-main/blob/main/Task1-PredictionUsingSupervisedML/PredictionUsingSupervisedML.ipynb "> Prediction using Supervised ML</a><br>
 >YouTube:  <a href="https://www.youtube.com/watch?v=sL-I8n8bFWg">Prediction using Supervised ML</a>
 
 <br><br>
