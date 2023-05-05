@@ -47,7 +47,7 @@
 (Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
 - Here is the dataset : <a href="https://bit.ly/2TK5Xn5">Dataset.csv</a><br>
 > Solution: <a href="https://github.com/SMMS28/TSF-GRIP-Tasks-main/blob/main/Task4-EDA(Terrorism)/ExploratoryDataAnalysisTerrorism.ipynb">Exploratory Data Analysis - Terrorism</a><br>
-> YouTube: <a href="[https://www.youtube.com/watch?v=rYMe2ZDuhBE](https://youtu.be/IRQ4oN2ba2w)">Exploratory Data Analysis - Terrorism</a>
+> YouTube: <a href="https://youtu.be/IRQ4oN2ba2w">Exploratory Data Analysis - Terrorism</a>
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/5. Exploratory Data Analysis (Sports) > Level  Advanced-e60000.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
