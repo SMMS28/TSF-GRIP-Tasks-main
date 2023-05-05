@@ -14,7 +14,7 @@
 - What will be predicted score if a student studies for 9.25 hrs/day? <br>
 - Here is the dataset : <a href="https://github.com/LiquidisedFish/TSF-GRIP-Tasks/blob/main/Task1-PredictionUsingSupervisedML/StudentScores.csv">Dataset.csv</a><br>
 > Solution: <a href="https://github.com/SMMS28/TSF-GRIP-Tasks-main/blob/main/Task1-PredictionUsingSupervisedML/PredictionUsingSupervisedML.ipynb "> Prediction using Supervised ML</a><br>
->YouTube:  <a href="https://www.youtube.com/watch?v=sL-I8n8bFWg">Prediction using Supervised ML</a>
+>YouTube:  <a href="https://youtu.be/4YlH3UwHtRA">Prediction using Supervised ML</a>
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/2. Prediction using Unsupervised ML > Level  Beginner-00b300.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
