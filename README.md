@@ -59,5 +59,5 @@
 - You can choose any of the tool of your choice
 (Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
 - Here is the dataset :  <a href="https://github.com/LiquidisedFish/TSF-GRIP-Tasks/blob/main/Task5-EDA(Sports)/deliveries.csv">deliveries.csv</a>  <a href="https://github.com/LiquidisedFish/TSF-GRIP-Tasks/blob/main/Task5-EDA(Sports)/matches.csv">matches.csv</a><br>
-> Solution: <a href="https://github.com/LiquidisedFish/TSF-GRIP-Tasks/blob/main/Task5-EDA(Sports)/ExploratoryDataAnalysisSports.ipynb">Exploratory Data Analysis - Sports</a><br>
+> Solution: <a href="https://github.com/SMMS28/TSF-GRIP-Tasks-main/blob/main/Task5-EDA(Sports)/ExploratoryDataAnalysisSports.ipynb">Exploratory Data Analysis - Sports</a><br>
 > YouTube: <a href="https://www.youtube.com/watch?v=drFOr_1Q2HA">Exploratory Data Analysis - Sports</a>
