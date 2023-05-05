@@ -1,6 +1,6 @@
 <img height="29" src="https://img.shields.io/badge/Data Science & Business Analytics-0d0d0d.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
 
-[![](https://img.shields.io/badge/Techie-Manish_Bhardwaj-0d0d0d.svg)](https://github.com/LiquidisedFish)<br>
+[![](https://img.shields.io/badge/Techie-SUNKARA_MOHAN_MUKUND_SAI-0d0d0d.svg)](https://github.com/LiquidisedFish)<br>
 
 ![](https://img.shields.io/badge/Programming_Language-Python-0d0d0d.svg)
 ![](https://img.shields.io/badge/Status-Complete-0d0d0d.svg)
